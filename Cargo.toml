@@ -1,0 +1,9 @@
+[package]
+name = "sqlite-bench1"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+human_bytes = "0.4.3"
+rand = "0.8.5"
+rusqlite = "0.32.1"
